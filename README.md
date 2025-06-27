@@ -1,3 +1,6 @@
+![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)
+[View License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+
 # customer-churn-prediction-telecom
 This project was developed as part of my Master's thesis in **Business Analytics &amp; Data Science** at Rabat Business School. The study focuses on addressing customer churn in the telecom industry using interpretable machine learning models.
 
